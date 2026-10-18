@@ -5,6 +5,9 @@ Windows 上的绿色小工具：**定好时间，到点自动关闭指定的程�
 单文件 exe，不写注册表、不需要安装 Python 或任何第三方运行库，只用系统自带的 .NET Framework 4.x
 （Windows 10 1607 及以后、Windows 11 都自带）。
 
+**下载**：[最新版本 Release](https://github.com/cheng777696/close-timer/releases/latest) → 下载 `CloseTimer-v1.1.exe`，双击即用。
+也可以下载源码后运行 `编译.bat` 自己生成。
+
 ![倒计时中的界面](界面预览.png)
 
 ![刚打开的界面](界面预览_就绪.png)
