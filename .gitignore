@@ -1,0 +1,15 @@
+# 编译产物（需要的话从 Releases 下载，或用 编译.bat 自己生成）
+*.exe
+
+# 运行/自检产生的输出
+自检报告.txt
+关闭测试日志.txt
+*trace*.txt
+错误.log
+
+# 系统与编辑器
+Thumbs.db
+desktop.ini
+.vs/
+*.user
+*.suo
